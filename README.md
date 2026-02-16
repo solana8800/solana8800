@@ -5,6 +5,8 @@
 ### Activities
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/langeval/langeval/pull/1) in [langeval/langeval](https://github.com/langeval/langeval)
+2. ❌ Closed PR [#2](https://github.com/langeval/langeval/pull/2) in [langeval/langeval](https://github.com/langeval/langeval)
 <!--END_SECTION:activity-->
 
 ### Stats
