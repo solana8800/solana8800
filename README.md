@@ -22,4 +22,4 @@
   <img width="400" src="./top-langs-dark.svg#gh-dark-mode-only" />
 </div>
 
-<sub>If you enjoy what I do please 🌟 Star my repos, 💕 Follow me [@solana8800](https://github.com/solana8800). Your support means a lot! 🥰</sub>
+<sub>If you enjoy what I do please 🌟 Star [langeval](https://github.com/solana8800/langeval), 💕 Follow me [@solana8800](https://github.com/solana8800). Your support means a lot! 🥰</sub>
