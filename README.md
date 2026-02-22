@@ -6,8 +6,8 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/langeval/langeval/pull/1) in [langeval/langeval](https://github.com/langeval/langeval)
-2. ❌ Closed PR [#2](https://github.com/langeval/langeval/pull/2) in [langeval/langeval](https://github.com/langeval/langeval)
+1. ❌ Closed PR [#1](https://github.com/solana8800/langeval/pull/1) in [solana8800/langeval](https://github.com/solana8800/langeval)
+2. ❌ Closed PR [#2](https://github.com/solana8800/langeval/pull/2) in [solana8800/langeval](https://github.com/solana8800/langeval)
 <!--END_SECTION:activity-->
 
 ### Stats
