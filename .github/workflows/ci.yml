@@ -27,8 +27,6 @@ jobs:
         uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          FILTER_EVENTS: "PushEvent,WatchEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent"
 
       # -------- DARK --------
       - name: Generate stats card (dark)
