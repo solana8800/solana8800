@@ -53,6 +53,12 @@
 
 <br />
 
+## ⚡ Các hoạt động gần đây (GitHub Activity)
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br />
+
 <div align="center">
   <sub>Mong muốn mang lại giá trị thực qua mã nguồn mở. Nếu bạn thích những gì mình làm, hãy tặng một 🌟 cho <a href="https://github.com/solana8800/langeval">LangEval</a> nhé! 🥰</sub>
 </div>
