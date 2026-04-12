@@ -14,7 +14,27 @@
   
   <br />
 
-  [![LinkedIn Card](https://linkedin-github-readme.onrender.com/api?name=Tuan%20Tran&headline=Solutions%20Architect%20@%20Sun%20Group%20|%20GenAI%20&%20Agentic%20AI&position=Founder%20@%20LangEval%20|%203,500+%20Followers&company=Sun%20Group&school=FPT%20University&theme=dark)](https://www.linkedin.com/in/solana8800)
+  <!-- Professional Snapshot Section (Manually Generated) -->
+  <div align="center">
+    <table style="border: none; border-collapse: collapse;">
+      <tr>
+        <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background: #0d1117;">
+          <a href="https://www.linkedin.com/in/solana8800" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-Tuan%20Tran-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          </a>
+          <br /><br />
+          <p style="font-size: 1.2em; margin-bottom: 5px;"><b>Solutions Architect @ Sun Group</b></p>
+          <p style="color: #8b949e; margin-top: 0;"><i>GenAI, Agentic AI & Local-first Infrastructure</i></p>
+          <hr style="border: 0; border-top: 1px solid #30363d; margin: 15px 0;" />
+          <div style="display: flex; gap: 10px; justify-content: center;">
+            <img src="https://img.shields.io/badge/Founder-LangEval-orange?style=flat-square&logo=rocket" />
+            <img src="https://img.shields.io/badge/Followers-3.5k+-brightgreen?style=flat-square&logo=rss" />
+            <img src="https://img.shields.io/badge/Exp-9+%20Years-blue?style=flat-square" />
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 <hr />
