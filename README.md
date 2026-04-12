@@ -11,6 +11,10 @@
 
   ![Snake (Light)](./snake-github-light.svg#gh-light-mode-only)
   ![Snake (Dark)](./snake-catppuccin-mocha.svg#gh-dark-mode-only)
+  
+  <br />
+
+  [![LinkedIn Card](https://linkedin-github-readme.onrender.com/api?name=Tuan%20Tran&headline=Solutions%20Architect%20@%20Sun%20Group%20|%20GenAI,%20Agentic%20AI&position=Solutions%20Architect&company=Sun%20Group&school=FPT%20University&theme=blue)](https://www.linkedin.com/in/solana8800)
 </div>
 
 <hr />
