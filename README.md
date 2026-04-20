@@ -79,6 +79,7 @@
 
 ## ⚡ Các hoạt động gần đây (GitHub Activity)
 <!--START_SECTION:activity-->
+1. 🚀 Published release [VClaw Desktop v0.1.0 - Official Download](https://github.com/solana8800/vclaw-app/releases/tag/v0.1.0) in [solana8800/vclaw-app](https://github.com/solana8800/vclaw-app)
 <!--END_SECTION:activity-->
 
 <br />
