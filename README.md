@@ -79,7 +79,7 @@
 
 ## ⚡ Các hoạt động gần đây (GitHub Activity)
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71566](https://github.com/openclaw/openclaw/pull/71566#issuecomment-4319683279) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
+1. 🚀 Published release [VClaw Desktop v0.1.0](https://github.com/solana8800/vclaw/releases/tag/v0.1.0) in [solana8800/vclaw](https://github.com/solana8800/vclaw)
 <!--END_SECTION:activity-->
 
 <br />
