@@ -79,7 +79,7 @@
 
 ## ⚡ Các hoạt động gần đây (GitHub Activity)
 <!--START_SECTION:activity-->
-1. 🚀 Published release [VClaw v0.1.1](https://github.com/solana8800/vclaw/releases/tag/v0.1.1) in [solana8800/vclaw](https://github.com/solana8800/vclaw)
+1. 🚀 Published release [V-ADLC Extension 0.8.0 / CLI 0.3.0](https://github.com/solana8800/v-adlc/releases/tag/v-adlc-0.8.0) in [solana8800/v-adlc](https://github.com/solana8800/v-adlc)
 <!--END_SECTION:activity-->
 
 <br />
