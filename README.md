@@ -79,7 +79,7 @@
 
 ## ⚡ Các hoạt động gần đây (GitHub Activity)
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/solana8800/vadlc/pull/1) in [solana8800/vadlc](https://github.com/solana8800/vadlc)
+1. 💪 Opened PR [#3](https://github.com/solana8800/vadlc/pull/3) in [solana8800/vadlc](https://github.com/solana8800/vadlc)
 <!--END_SECTION:activity-->
 
 <br />
